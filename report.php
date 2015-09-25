@@ -2,7 +2,7 @@
 <html lang="en">
 <style media="screen" type="text/css">
 body {
-background-image:url(background.png);
+background-image:url(http://www.hnng.moe/f/2tT);
 background-repeat:no-repeat;
 background-size:auto;
 }   
