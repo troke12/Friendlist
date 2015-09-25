@@ -98,6 +98,6 @@ echo "<tr><td><img src=".$linkflag." /> $name</td><td>$rank</td><td>$score</td><
 ?> </table><br> <a 
 href="https://gist.github.com/mfaishalakbar/4f7b1ae8c369724ffb66" 
 style="text-decoration:none"><img 
-src="GitHub-Mark.png" 
+src="https://github.com/fluidicon.png" 
 alt="Show Sourcecode on Github Gist" height="32" width="32"></a> <br><h2>Made with Love by Faishal Akbar</h2>
 </center> </body> </html>
